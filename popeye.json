@@ -35,6 +35,24 @@
 ,
 {
          "name": 
+"AIS-ZCOM-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-ZCOM-TH-AIS.ovpn"
+      }
+,
+{
+         "name": 
+"DTAC-ZCOM-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-ZCOM-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": 
+"TRUE-ZCOM-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-ZCOM-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": 
 "AIS-GAME-ZCOM-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-ZCOM-TH-AIS.ovpn"
       }
@@ -51,10 +69,9 @@
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-ZCOM-TH-TRUE.ovpn"
       }
 
-      
-       ],
+     ],
 "message":"
-🌎- ระบบอัพเดทอัตโนมัติ 25-04-2023
+🌎- ระบบอัพเดทอัตโนมัติ 26-04-2023
 
 @ปีศาจ สุรา 👻
 
@@ -70,5 +87,5 @@ https://m.me/fmxradio.sukhothai.3
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":13
+   "version":14
 }
