@@ -2,6 +2,8 @@
    "files": [    
 
 
+
+
 {
          "name": "AIS-OPENLAND-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-AIS.ovpn"
@@ -17,10 +19,10 @@
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-TRUE.ovpn"
       }
 
-
-     ],
+      
+       ],
 "message":"
-🌎- ระบบอัพเดทอัตโนมัติ 8-05-2023
+🌎- ระบบอัพเดทอัตโนมัติ 08-05-2023
 
 @ปีศาจ สุรา 👻
 
@@ -36,5 +38,5 @@ https://m.me/fmxradio.sukhothai.3
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":14
+   "version":15
 }
