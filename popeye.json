@@ -1,28 +1,27 @@
 {
-   "files": [    
+   "files": [   
 
 
 
 
 {
-         "name": "AIS-RCADYIDC-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-AIS.ovpn"
-      }
+         "name": "AIS-RCADYIDC-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-AIS.ovpn"
+      }
 ,
 {
-         "name": "DTAC-RCADYIDC-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-DTAC.ovpn"
-      }
+         "name": "DTAC-RCADYIDC-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-DTAC.ovpn"
+      }
 ,
 {
-         "name": "TRUE-RCADYIDC-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-TRUE.ovpn"
-      }
-
-      
-       ],
+         "name": "TRUE-RCADYIDC-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-TRUE.ovpn"
+      }
+      
+       ],
 "message":"
-🌎- ระบบอัพเดทอัตโนมัติ 23-มิ.ย-2023
+🌎- ระบบอัพเดทอัตโนมัติ 22-มิ.ย-2023
 
 ▶ติดต่อแอดมิน
 ▶ปีศาจ สุรา 👻 
@@ -30,5 +29,5 @@ https://m.me/fmxradio.sukhothai.3
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":22
+   "version":22
 }
