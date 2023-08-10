@@ -7,21 +7,6 @@
 
 
 {
-         "name": "AIS-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-AIS.ovpn"
-      }
-,
-{
-         "name": "DTAC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-DTAC.ovpn"
-      }
-,
-{
-         "name": "TRUE-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-TRUE.ovpn"
-      }
-,
-{
          "name": "AIS-RCADYIDC-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-AIS.ovpn"
       }
