@@ -1,78 +1,36 @@
+
+
 {
-
-   "files": [   
-
-
-
-
-
+   "files": [    
 
 
 
 
 {
-
          "name": "AIS-RCADYIDC-TH-VIP",
-
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-AIS.ovpn"
-
       }
-
 ,
-
 {
-
          "name": "DTAC-RCADYIDC-TH-VIP",
-
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-DTA.ovpn"
-
       }
-
 ,
-
 {
-
          "name": "TRUE-RCADYIDC-TH-VIP",
-
          "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-TRUE.ovpn"
-
       }
 
       
-
        ],
-
 "message":"
-
 🌎- ระบบอัพเดทอัตโนมัติ 8-ต.ค-2023
 
-🔥รองรับการใช้งานทุกเครือข่าย
-●เอไอเอส
-●ดีเทค
-●ทรูมูท
-🌟รองรับการใช้งานทุกเครือข่าย
-AIS DTAC TRUE
-แจ้งอัพเดทเซิฟใหม่สดๆร้อน
-VIP-AIS-RCADYIDC-TH🇹🇭
-VIP-DTAC-RCADYIDC-TH🇹🇭
-VIP-TRUE-RCADYIDC-TH🇹🇭
-
-●ไม่เก็บเงินย้อนหลัง
-
-
-
 ▶ติดต่อแอดมิน
-
 ▶ปีศาจ สุรา 👻 
-
 https://m.me/fmxradio.sukhothai.3
 
-
-
 \n\nUpdate:1",
-
 "title":"New Update File" ,
-
-   "version":27
-
+   "version":26
 }
