@@ -11,7 +11,7 @@
 ,
 {
          "name": "DTAC-RCADYIDC-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-DTA.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-RCADYIDC-DTAC.ovpn"
       }
 ,
 {
@@ -22,7 +22,7 @@
       
        ],
 "message":"
-🌎- ระบบอัพเดทอัตโนมัติ 8-ต.ค-2023
+🌎- ระบบอัพเดทอัตโนมัติ 9-ต.ค-2023
 
 ▶ติดต่อแอดมิน
 ▶ปีศาจ สุรา 👻 
@@ -30,5 +30,5 @@ https://m.me/fmxradio.sukhothai.3
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":27
+   "version":28
 }
